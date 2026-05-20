@@ -10,9 +10,6 @@
 	"compatibility_flags": [
 		"nodejs_compat"
 	],
-	"limits": {
-		"cpu_ms": 10
-	},
 	"migrations": [
 		{
 			"new_sqlite_classes": [
